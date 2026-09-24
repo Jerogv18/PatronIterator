@@ -1,0 +1,15 @@
+C:\Users\MARGARITA\Desktop\Jero\Patron_Iterador\Patron_Iterador\bin\Debug\net10.0\Patron_Iterador.exe
+C:\Users\MARGARITA\Desktop\Jero\Patron_Iterador\Patron_Iterador\bin\Debug\net10.0\Patron_Iterador.deps.json
+C:\Users\MARGARITA\Desktop\Jero\Patron_Iterador\Patron_Iterador\bin\Debug\net10.0\Patron_Iterador.runtimeconfig.json
+C:\Users\MARGARITA\Desktop\Jero\Patron_Iterador\Patron_Iterador\bin\Debug\net10.0\Patron_Iterador.dll
+C:\Users\MARGARITA\Desktop\Jero\Patron_Iterador\Patron_Iterador\bin\Debug\net10.0\Patron_Iterador.pdb
+C:\Users\MARGARITA\Desktop\Jero\Patron_Iterador\Patron_Iterador\obj\Debug\net10.0\Patron_Iterador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARGARITA\Desktop\Jero\Patron_Iterador\Patron_Iterador\obj\Debug\net10.0\Patron_Iterador.AssemblyInfoInputs.cache
+C:\Users\MARGARITA\Desktop\Jero\Patron_Iterador\Patron_Iterador\obj\Debug\net10.0\Patron_Iterador.AssemblyInfo.cs
+C:\Users\MARGARITA\Desktop\Jero\Patron_Iterador\Patron_Iterador\obj\Debug\net10.0\Patron_Iterador.csproj.CoreCompileInputs.cache
+C:\Users\MARGARITA\Desktop\Jero\Patron_Iterador\Patron_Iterador\obj\Debug\net10.0\Patron_Iterador.dll
+C:\Users\MARGARITA\Desktop\Jero\Patron_Iterador\Patron_Iterador\obj\Debug\net10.0\refint\Patron_Iterador.dll
+C:\Users\MARGARITA\Desktop\Jero\Patron_Iterador\Patron_Iterador\obj\Debug\net10.0\Patron_Iterador.pdb
+C:\Users\MARGARITA\Desktop\Jero\Patron_Iterador\Patron_Iterador\obj\Debug\net10.0\Patron_Iterador.genruntimeconfig.cache
+C:\Users\MARGARITA\Desktop\Jero\Patron_Iterador\Patron_Iterador\obj\Debug\net10.0\ref\Patron_Iterador.dll
+C:\Users\MARGARITA\Desktop\Jero\Patron_Iterador\Patron_Iterador\obj\Debug\net10.0\Patron_I.7FCE2920.Up2Date
